@@ -1,6 +1,3 @@
 
-# Module-5 Coding Assignment
+To Reach to the created website click the following link : https://siddique-sa.github.io/courseraHTML_CSS_JS/module-5-solution/index.html
 
-Coursera course: HTML, CSS, and Javascript for Web Developers
-
-# To see the output [CLICK HERE](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
